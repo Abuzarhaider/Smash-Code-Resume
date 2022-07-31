@@ -536,8 +536,8 @@ footer hr {
         position: absolute;
         top: 80px;
         left: -100vw;
-        height: 85vh;
-        width: 50vw;
+        height: 95vh;
+        width: 60vw;
         transition: .8s;
     }
 
